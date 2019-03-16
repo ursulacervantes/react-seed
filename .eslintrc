@@ -55,6 +55,7 @@
   },
 
   "plugins": [
+    "flowtype",
     "react-hooks"
   ],
 
